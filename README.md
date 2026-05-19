@@ -1,2 +1,2 @@
-# CISSCT-SOCO
+# CISSCT-SOCOTEC
 Emargement CISSCT
